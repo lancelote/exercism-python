@@ -1,4 +1,4 @@
-# python_exercism
+# exercism-python
 
 My Python track solutions from [exercism.io][1]
 
