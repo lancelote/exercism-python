@@ -1,6 +1,0 @@
-black==19.10b0
-flake8==3.9.2
-mypy==0.910
-pre-commit==2.13.0
-pur==5.4.2
-pytest==6.2.4
